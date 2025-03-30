@@ -53,7 +53,7 @@ function beriRating(nilai) {
 }
 
 function RekeningOnTap() {
-    alert("Silakan hubungi Pemilik website!");
+    alert("Silakan hubungi Pemilik website untuk informasi lebih lanjut!");
 }
 
 function toggleMusik() {
